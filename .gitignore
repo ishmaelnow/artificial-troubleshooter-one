@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data & artifacts
+data/interim/
+data/processed/
+models/artifacts/
+
+# Notebooks
+.ipynb_checkpoints/
+
+node_modules/
+dist/
+.env
+
